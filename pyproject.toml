@@ -8,6 +8,7 @@ authors = [
 dependencies = [
     "matplotlib>=3.8.4",
     "ipykernel>=6.29.4",
+    "pytz>=2024.1",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
