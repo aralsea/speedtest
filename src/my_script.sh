@@ -13,5 +13,5 @@ while true; do
     # 新しい結果をJSONファイルに追加
     jq --argjson result "$result" '. += [$result]' $output_file > tmp.json
     mv tmp.json $output_file
-    sleep 120 # 2分ごとに計測（秒数は適宜変更）
+    sleep 60 # 1分ごとに計測（秒数は適宜変更）
 done
