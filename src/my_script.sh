@@ -1,5 +1,5 @@
 #!/bin/bash
-output_file="ospeedtest.json"
+output_file="speedtest.json"
 
 # JSONファイルが存在しない場合は、空の配列を作成
 if [ ! -f $output_file ]; then
