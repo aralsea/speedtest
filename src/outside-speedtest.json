@@ -1,0 +1,277 @@
+[
+  {
+    "type": "result",
+    "timestamp": "2024-04-07T08:39:05Z",
+    "ping": {
+      "jitter": 0.234,
+      "latency": 9.854,
+      "low": 9.666,
+      "high": 10.120
+    },
+    "download": {
+      "bandwidth": 10534135,
+      "bytes": 146853124,
+      "elapsed": 15005,
+      "latency": {
+        "iqm": 75.332,
+        "low": 10.372,
+        "high": 373.056,
+        "jitter": 18.705
+      }
+    },
+    "upload": {
+      "bandwidth": 11110847,
+      "bytes": 108499412,
+      "elapsed": 10028,
+      "latency": {
+        "iqm": 133.748,
+        "low": 14.742,
+        "high": 521.576,
+        "jitter": 43.584
+      }
+    },
+    "packetLoss": 0.70671378091872794,
+    "isp": "Wire and Wireless Co.",
+    "interface": {
+      "internalIp": "10.68.159.9",
+      "name": "en0",
+      "macAddr": "A0:78:17:7D:45:58",
+      "isVpn": false,
+      "externalIp": "103.5.140.190"
+    },
+    "server": {
+      "id": 62147,
+      "host": "tyospeed.chinaunicomglobal.com",
+      "port": 8080,
+      "name": "China Unicom Global Ltd",
+      "location": "Tokyo",
+      "country": "Japan",
+      "ip": "203.160.66.182"
+    },
+    "result": {
+      "id": "a70d8ef1-52a8-4af4-86d0-bc984f0b7515",
+      "url": "https://www.speedtest.net/result/c/a70d8ef1-52a8-4af4-86d0-bc984f0b7515",
+      "persisted": true
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2024-04-07T08:41:38Z",
+    "ping": {
+      "jitter": 1.412,
+      "latency": 9.342,
+      "low": 8.915,
+      "high": 14.023
+    },
+    "download": {
+      "bandwidth": 8861428,
+      "bytes": 124146623,
+      "elapsed": 15003,
+      "latency": {
+        "iqm": 98.281,
+        "low": 13.372,
+        "high": 583.549,
+        "jitter": 29.554
+      }
+    },
+    "upload": {
+      "bandwidth": 9704518,
+      "bytes": 129460970,
+      "elapsed": 14982,
+      "latency": {
+        "iqm": 49.399,
+        "low": 8.303,
+        "high": 1980.598,
+        "jitter": 25.375
+      }
+    },
+    "packetLoss": 42.402826855123678,
+    "isp": "Wire and Wireless Co.",
+    "interface": {
+      "internalIp": "10.68.159.9",
+      "name": "en0",
+      "macAddr": "A0:78:17:7D:45:58",
+      "isVpn": false,
+      "externalIp": "103.5.140.190"
+    },
+    "server": {
+      "id": 21569,
+      "host": "jp.as.speedtest.i3d.net",
+      "port": 8080,
+      "name": "i3D.net",
+      "location": "Tokyo",
+      "country": "Japan",
+      "ip": "103.194.167.213"
+    },
+    "result": {
+      "id": "53fad873-cc3c-4fd8-8cdb-235c2655415f",
+      "url": "https://www.speedtest.net/result/c/53fad873-cc3c-4fd8-8cdb-235c2655415f",
+      "persisted": true
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2024-04-07T08:46:32Z",
+    "ping": {
+      "jitter": 0.270,
+      "latency": 9.551,
+      "low": 9.147,
+      "high": 9.665
+    },
+    "download": {
+      "bandwidth": 8075328,
+      "bytes": 96551026,
+      "elapsed": 12216,
+      "latency": {
+        "iqm": 108.074,
+        "low": 13.312,
+        "high": 267.373,
+        "jitter": 31.203
+      }
+    },
+    "upload": {
+      "bandwidth": 10930820,
+      "bytes": 80400072,
+      "elapsed": 7405,
+      "latency": {
+        "iqm": 110.458,
+        "low": 14.812,
+        "high": 601.639,
+        "jitter": 36.863
+      }
+    },
+    "packetLoss": 0,
+    "isp": "Wire and Wireless Co.",
+    "interface": {
+      "internalIp": "10.68.159.9",
+      "name": "en0",
+      "macAddr": "A0:78:17:7D:45:58",
+      "isVpn": false,
+      "externalIp": "103.5.140.190"
+    },
+    "server": {
+      "id": 63574,
+      "host": "ookla.tyo1.circleglobalnetwork.com",
+      "port": 8080,
+      "name": "CIRCLE",
+      "location": "Tokyo",
+      "country": "Japan",
+      "ip": "157.15.254.64"
+    },
+    "result": {
+      "id": "d5b406af-3e21-4157-88e6-71abb588844c",
+      "url": "https://www.speedtest.net/result/c/d5b406af-3e21-4157-88e6-71abb588844c",
+      "persisted": true
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2024-04-07T08:57:27Z",
+    "ping": {
+      "jitter": 2.070,
+      "latency": 11.200,
+      "low": 8.728,
+      "high": 13.373
+    },
+    "download": {
+      "bandwidth": 9329338,
+      "bytes": 75323651,
+      "elapsed": 8010,
+      "latency": {
+        "iqm": 136.309,
+        "low": 13.007,
+        "high": 541.256,
+        "jitter": 44.606
+      }
+    },
+    "upload": {
+      "bandwidth": 11057526,
+      "bytes": 123241525,
+      "elapsed": 12111,
+      "latency": {
+        "iqm": 88.086,
+        "low": 12.460,
+        "high": 1301.979,
+        "jitter": 28.282
+      }
+    },
+    "packetLoss": 0,
+    "isp": "Wire and Wireless Co.",
+    "interface": {
+      "internalIp": "10.68.159.9",
+      "name": "en0",
+      "macAddr": "A0:78:17:7D:45:58",
+      "isVpn": false,
+      "externalIp": "103.5.140.190"
+    },
+    "server": {
+      "id": 56935,
+      "host": "tyo.speedtest.contabo.net",
+      "port": 8080,
+      "name": "Contabo",
+      "location": "Tokyo",
+      "country": "Japan",
+      "ip": "109.123.228.91"
+    },
+    "result": {
+      "id": "0a4dd934-9bb2-466d-a56d-7672f62bfca4",
+      "url": "https://www.speedtest.net/result/c/0a4dd934-9bb2-466d-a56d-7672f62bfca4",
+      "persisted": true
+    }
+  },
+  {
+    "type": "result",
+    "timestamp": "2024-04-07T08:59:52Z",
+    "ping": {
+      "jitter": 0.419,
+      "latency": 8.980,
+      "low": 8.534,
+      "high": 9.382
+    },
+    "download": {
+      "bandwidth": 6900373,
+      "bytes": 84046596,
+      "elapsed": 12102,
+      "latency": {
+        "iqm": 125.602,
+        "low": 12.125,
+        "high": 438.341,
+        "jitter": 40.225
+      }
+    },
+    "upload": {
+      "bandwidth": 10960644,
+      "bytes": 100030329,
+      "elapsed": 9210,
+      "latency": {
+        "iqm": 101.421,
+        "low": 11.609,
+        "high": 584.302,
+        "jitter": 27.921
+      }
+    },
+    "packetLoss": 15.418502202643172,
+    "isp": "Wire and Wireless Co.",
+    "interface": {
+      "internalIp": "10.68.159.9",
+      "name": "en0",
+      "macAddr": "A0:78:17:7D:45:58",
+      "isVpn": false,
+      "externalIp": "103.5.140.190"
+    },
+    "server": {
+      "id": 21569,
+      "host": "jp.as.speedtest.i3d.net",
+      "port": 8080,
+      "name": "i3D.net",
+      "location": "Tokyo",
+      "country": "Japan",
+      "ip": "103.194.167.213"
+    },
+    "result": {
+      "id": "a9652219-026a-4be3-b031-a0aaa010e55f",
+      "url": "https://www.speedtest.net/result/c/a9652219-026a-4be3-b031-a0aaa010e55f",
+      "persisted": true
+    }
+  }
+]
